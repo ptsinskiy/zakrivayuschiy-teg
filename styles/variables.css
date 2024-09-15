@@ -1,1 +1,16 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+:root {
+  --bg-color: #fff;
+  --accent-color: #000;
+  --sparks-color: #FF0000;
+  --button-text-color: #fff;
+  
+  --font-inter: 'Inter';
+  --font-accent: 'PressStart2P';
+  --font-variation-regular: 400;
+  --font-variation-bold: 700;
+  
+  --bg-image: url('../svg/pattern-light.svg');
+}
+  
