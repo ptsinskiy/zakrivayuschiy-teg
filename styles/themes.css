@@ -12,7 +12,7 @@
   --font-variation-regular: 465;
   --font-variation-bold: 785;
 
-  --bg-image: url('../svg/pattern-dark.svg');  
+  --bg-image: url('../svg/pattern-dark.svg');
 }
 
 :root .theme-light {
